@@ -1,7 +1,4 @@
-# German-Car-Company-Analysis
-Germany Car Data Analysis: Analyzing trends in fuel types, pricing, and performance of cars in Germany to uncover insights into market dynamics and the shift toward electric vehicles.
-
-#Germany Car Company Data Analysis
+# Germany Car Company Data Analysis
 This project analyzes a dataset of cars in Germany, focusing on trends in fuel types, pricing, horsepower, and market dynamics. The analysis includes:
 
 Fuel Type Transition: Visualizing the shift from traditional fuel types (e.g., gasoline, diesel) to electric and hybrid vehicles over the years.
